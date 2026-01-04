@@ -1,6 +1,6 @@
 # Linux User Management - Complete Guide & Hands-On Labs
 
-## Table of Contents
+## Linux Complete 
 1. [Understanding Linux Users and Groups](#understanding-linux-users-and-groups)
 2. [User Management Commands](#user-management-commands)
 3. [Group Management](#group-management)
